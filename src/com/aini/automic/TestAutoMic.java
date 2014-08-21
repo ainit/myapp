@@ -15,7 +15,7 @@ public class TestAutoMic {
 					public void run() {
 						COUNT.incrementAndGet();
 					}
-			
+		 ///sadfasldj
 			});
 		}
 		try {
@@ -26,5 +26,6 @@ public class TestAutoMic {
 		}
 		serivce.shutdown();
 		System.out.println(COUNT);
+		System.out.println("中国人民银行");
 	}
 }
