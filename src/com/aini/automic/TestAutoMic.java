@@ -26,6 +26,6 @@ public class TestAutoMic {
 		}
 		serivce.shutdown();
 		System.out.println(COUNT);
-		System.out.println("中国人民银行");
+		System.out.println("中国人民银行COUNT");
 	}
 }
