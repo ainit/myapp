@@ -21,10 +21,11 @@ public class TestAutoMic {
 		try {
 			serivce.awaitTermination(1, TimeUnit.SECONDS);
 		} catch (InterruptedException e) {
-			// TODO Auto-generated catch block
+			
 			e.printStackTrace();
 		}
 		serivce.shutdown();
+		System.out.println(COUNT);
 		System.out.println(COUNT);
 	}
 }
