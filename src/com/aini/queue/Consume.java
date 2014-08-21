@@ -1,4 +1,4 @@
-package com.sogou.queue;
+package com.aini.queue;
 
 public class Consume implements Runnable{
 

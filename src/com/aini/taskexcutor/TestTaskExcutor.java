@@ -1,4 +1,4 @@
-package com.sogou.taskexcutor;
+package com.aini.taskexcutor;
 
 import java.util.concurrent.BlockingQueue;
 import java.util.concurrent.LinkedBlockingQueue;

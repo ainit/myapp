@@ -1,4 +1,4 @@
-package com.sogou.countdown;
+package com.aini.countdown;
 
 import java.util.concurrent.BrokenBarrierException;
 import java.util.concurrent.CyclicBarrier;

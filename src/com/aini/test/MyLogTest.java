@@ -1,9 +1,9 @@
-package com.sogou.test;
+package com.aini.test;
 
 import org.apache.log4j.Logger;
 import org.apache.log4j.PropertyConfigurator;
 
-import com.sogou.log.LoggerManager;
+import com.aini.log.LoggerManager;
 
 public class MyLogTest {
 	public static void main(String[] args) {

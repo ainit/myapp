@@ -1,4 +1,4 @@
-package com.sogou.automic;
+package com.aini.automic;
 
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;

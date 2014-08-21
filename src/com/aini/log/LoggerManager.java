@@ -1,4 +1,4 @@
-package com.sogou.log;
+package com.aini.log;
 
 import org.apache.log4j.Category;
 import org.apache.log4j.Logger;

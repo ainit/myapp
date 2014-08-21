@@ -1,4 +1,4 @@
-package com.sogou.countdown;
+package com.aini.countdown;
 
 import java.util.concurrent.CountDownLatch;
 import java.util.concurrent.ExecutorService;

@@ -1,4 +1,4 @@
-package com.sogou.queue;
+package com.aini.queue;
 
 import java.util.concurrent.BlockingQueue;
 import java.util.concurrent.LinkedBlockingQueue;
